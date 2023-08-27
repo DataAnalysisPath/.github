@@ -25,6 +25,7 @@ During our labs, we have worked with several essential tools and concepts for da
 - **Python**: The widely used programming language in data analysis.
 - **Pandas**: A Python library for data handling and analysis.
 - **SQL**: The language used for managing and manipulating relational databases.
+- **MongoDB**: A NoSQL database system that allows flexible and scalable storage of unstructured or semi-structured data.
 - **Web Scraping**: Techniques for extracting data from websites.
 - **Statistics**: Statistical fundamentals for data analysis.
 - **Power BI**: A tool for data visualization and interactive reporting.
